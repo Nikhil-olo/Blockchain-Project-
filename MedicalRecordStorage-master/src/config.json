@@ -1,0 +1,20 @@
+{
+    "4": {
+        "medical": {
+            "address": "0xA407FaFea19BB6510CD157b5C55DE674696dC331"
+        },
+        "explorerURL": "Test"
+    },
+    "5": {
+        "medical": {
+            "address": "0x07ebbf540720dED37D5FBECd0EDa8909A332B7a4"
+        },
+        "explorerURL": "https://goerli.etherscan.io/"
+    },
+    "11155111": {
+        "medical": {
+            "address": "0x07ebbf540720dED37D5FBECd0EDa8909A332B7a4"
+        },
+        "explorerURL": "https://sepolia.etherscan.io"
+    }
+}
